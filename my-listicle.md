@@ -1,1 +1,1 @@
-
+# Absolute Solver abilities 
