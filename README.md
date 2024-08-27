@@ -1,1 +1,19 @@
-# IGME-110-Repo
+# My repo
+
+---
+
+## Level-2 header
+
+- red
+- green
+- blue
+
+1. cyan
+2. magenta
+3. yellow
+
+*Italic text* 
+
+dogs
+are
+cool
