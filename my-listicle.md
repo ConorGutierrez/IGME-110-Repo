@@ -6,7 +6,7 @@ Below is a list of the different abilities that can be used by the Absolute Solv
 
 ## **table of contents**
 
-- [translate](##translate)
+- [translate](#translate)
 - [rotate](##rotate)
 - [scale](##scale)
 - [edit](##edit)
