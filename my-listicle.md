@@ -7,16 +7,16 @@ Below is a list of the different abilities that can be used by the Absolute Solv
 ## **table of contents**
 
 - [translate](#translate)
-- [rotate](##rotate)
-- [scale](##scale)
-- [edit](##edit)
-- [reconstruction](##recontruction)
-- [teleportation](##teleportation)
-- [invisibility](##invisibility)
-- [illusion creation](##illusion-creation)
-- [black hole creation](##black-hole-creation)
-- [callback ping](##callback-ping)
-- [shapeshifting](##shapeshifting)
+- [rotate](#rotate)
+- [scale](#scale)
+- [edit](#edit)
+- [reconstruction](#recontruction)
+- [teleportation](#teleportation)
+- [invisibility](#invisibility)
+- [illusion creation](#illusion-creation)
+- [black hole creation](#black-hole-creation)
+- [callback ping](#callback-ping)
+- [shapeshifting](#shapeshifting)
 
 -------
 
